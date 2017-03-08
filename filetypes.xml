@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="privs" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="privs" type="PLAIN_TEXT" />
+      <mapping ext="service" type="TypeScript" />
       <mapping ext="prop" type="Properties" />
     </extensionMap>
   </component>
