@@ -7,35 +7,39 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/angular/angular-seed.git" />
+          <option name="url" value="ssh://cchia@syd-gitblit.objectconsulting.com.au:29418/LifelinkNSWMig.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="casperchia" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/casperchia/foosmate-api.git" />
+          <option name="url" value="ssh://cchia@syd-gitblit.objectconsulting.com.au:29418/cbdm/DataTransferObject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/reactjs/react-tutorial.git" />
+          <option name="url" value="https://rgunatilake@syd-gitblit.objectconsulting.com.au/r/enzumo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://cchia@syd-gitblit.objectconsulting.com.au:29418/cge2/document-metastructure.git" />
+          <option name="url" value="https://cchia@syd-gitblit.objectconsulting.com.au/r/enzumo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://casperckc@bitbucket.org/vicbdm/cdbm-angular.git" />
+          <option name="url" value="https://cchia@syd-gitblit.objectconsulting.com.au/r/cbdm/Connected-BDM.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://casperckc@bitbucket.org/vicbdm/vicbdm-epublic-ui.git" />
+          <option name="url" value="ssh://cchia@syd-gitblit.objectconsulting.com.au:29418/cbdm/cbdm-common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://casperckc@bitbucket.org/vicbdm/vicbdm-cicm-ui.git" />
+          <option name="url" value="https://casperckc@bitbucket.org/vicbdm/connected-bdm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://casperckc@bitbucket.org/vicbdm/cbdm-ext-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://cchia@syd-gitblit.objectconsulting.com.au/r/cge2/cge-ui-generator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -44,6 +48,5 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\IntelliJProjects\patch36" />
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
