@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="title" type="PLAIN_TEXT" />
-      <mapping pattern="AdviserApplicationDetailsPanel.properties" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="privs" type="PLAIN_TEXT" />
+      <mapping ext="service" type="TypeScript" />
       <mapping ext="prop" type="Properties" />
-      <mapping pattern="sql.sql" type="TypoScript2 File" />
     </extensionMap>
   </component>
 </application>
