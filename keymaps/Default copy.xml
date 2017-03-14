@@ -7,6 +7,9 @@
   <action id="ActivateJenkinsToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -44,6 +47,9 @@
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt subtract" />
   </action>
+  <action id="EditorGutterToggleGlobalLineNumbers">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="alt add" />
   </action>
@@ -68,7 +74,9 @@
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="GotoTest" />
   <action id="HippieCompletion" />
+  <action id="Images.ShowThumbnails" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
@@ -85,6 +93,9 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
@@ -115,6 +126,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt y" />
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="alt p" />
@@ -129,6 +144,9 @@
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt m" />
