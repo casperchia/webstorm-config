@@ -7,6 +7,9 @@
   <action id="ActivateJenkinsToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
