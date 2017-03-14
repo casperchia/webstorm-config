@@ -47,6 +47,9 @@
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt subtract" />
   </action>
+  <action id="EditorGutterToggleGlobalLineNumbers">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="alt add" />
   </action>
