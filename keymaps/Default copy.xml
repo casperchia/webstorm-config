@@ -101,8 +101,20 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="ResizeToolWindowDown" />
-  <action id="ResizeToolWindowUp" />
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl numpad4" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl numpad6" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl numpad8" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
