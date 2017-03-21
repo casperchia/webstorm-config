@@ -1,6 +1,9 @@
 <application>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings />
+      </entry>
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
@@ -24,6 +27,9 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings />
+      </entry>
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="READ_ONLY_LOCK" value="false" />
