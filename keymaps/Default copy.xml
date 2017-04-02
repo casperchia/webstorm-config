@@ -66,6 +66,14 @@
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollDownAndMove">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorScrollUp" />
+  <action id="EditorScrollUpAndMove">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
