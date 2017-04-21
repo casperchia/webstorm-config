@@ -1,6 +1,6 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
