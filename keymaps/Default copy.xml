@@ -31,6 +31,10 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
