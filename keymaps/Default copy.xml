@@ -3,7 +3,9 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateFindToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
   <action id="ActivateJenkinsToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
