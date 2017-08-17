@@ -26,9 +26,13 @@
           <option name="url" value="ssh://cchia@syd-gitblit.objectconsulting.com.au:29418/LifelinkNswMscon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://cchia@syd-gitblit.objectconsulting.com.au:29418/lifelinkonlineforms/OnlineFormsAngularCLI.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Projects\mscon" />
+    <option name="cloneParentDir" value="C:\Projects\" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
