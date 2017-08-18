@@ -1,5 +1,5 @@
 <templateSet group="json">
-  <template name="xdate" value="{&#10;  &quot;key&quot;: &quot;$key$-on&quot;,&#10;  &quot;label&quot;: &quot;On&quot;&#10;},&#10;{&#10;  &quot;key&quot;: &quot;$key$-from&quot;,&#10;  &quot;label&quot;: &quot;From&quot;&#10;},&#10;{&#10;  &quot;key&quot;: &quot;$key$-to&quot;,&#10;  &quot;label&quot;: &quot;To&quot;&#10;}," toReformat="false" toShortenFQNames="true">
+  <template name="xdate" value="{&#10;  &quot;key&quot;: &quot;$key$-on&quot;,&#10;  &quot;label&quot;: &quot;On&quot;&#10;},&#10;{&#10;  &quot;key&quot;: &quot;$key$-from&quot;,&#10;  &quot;label&quot;: &quot;From&quot;&#10;},&#10;{&#10;  &quot;key&quot;: &quot;$key$-to&quot;,&#10;  &quot;label&quot;: &quot;To&quot;&#10;}," description="" toReformat="false" toShortenFQNames="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JSON" value="true" />
