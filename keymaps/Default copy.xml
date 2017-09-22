@@ -90,6 +90,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
