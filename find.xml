@@ -7,33 +7,38 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*endpoint*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>*.jav</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.sq</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>(</mask>
+      <mask>*.e</mask>
+      <mask>*.en</mask>
+      <mask>*.end</mask>
+      <mask>*.endp</mask>
+      <mask>*e</mask>
+      <mask>*endpoin</mask>
+      <mask>en</mask>
+      <mask>end</mask>
+      <mask>endp</mask>
+      <mask>endpo</mask>
+      <mask>*.</mask>
+      <mask>*enpo</mask>
+      <mask>*enpoin</mask>
+      <mask>*enpoint*.</mask>
+      <mask>*enpoint*</mask>
+      <mask>*enpoint</mask>
+      <mask>*</mask>
+      <mask>*en</mask>
+      <mask>*end</mask>
+      <mask>*endpo</mask>
+      <mask>*endpoint</mask>
+      <mask>*endpoint*</mask>
     </recentFileMasks>
   </component>
 </application>
