@@ -5,11 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>*.js</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
@@ -36,6 +33,10 @@
       <mask>*endpo</mask>
       <mask>*endpoint</mask>
       <mask>*endpoint*</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.json</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
