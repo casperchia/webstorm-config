@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>(</mask>
@@ -18,13 +18,11 @@
       <mask>end</mask>
       <mask>endp</mask>
       <mask>endpo</mask>
-      <mask>*.</mask>
       <mask>*enpo</mask>
       <mask>*enpoin</mask>
       <mask>*enpoint*.</mask>
       <mask>*enpoint*</mask>
       <mask>*enpoint</mask>
-      <mask>*</mask>
       <mask>*en</mask>
       <mask>*end</mask>
       <mask>*endpo</mask>
@@ -34,6 +32,9 @@
       <mask>.j</mask>
       <mask>.json</mask>
       <mask>*.json</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
