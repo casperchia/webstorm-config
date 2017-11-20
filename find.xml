@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*con*" />
     <recentFileMasks>
-      <mask>*.end</mask>
-      <mask>*.endp</mask>
-      <mask>*e</mask>
-      <mask>*endpoin</mask>
-      <mask>en</mask>
-      <mask>end</mask>
-      <mask>endp</mask>
       <mask>endpo</mask>
       <mask>*enpo</mask>
       <mask>*enpoin</mask>
@@ -26,14 +20,21 @@
       <mask>.j</mask>
       <mask>.json</mask>
       <mask>*.json</mask>
-      <mask>*</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
+      <mask>c</mask>
+      <mask>con</mask>
+      <mask>*&amp;</mask>
+      <mask>*c</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.con</mask>
+      <mask>*con</mask>
+      <mask>*con*</mask>
     </recentFileMasks>
   </component>
 </application>
