@@ -31,7 +31,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://casperckc@bitbucket.org/vicbdm/vicbdm-edes-ui.git" />
+          <option name="url" value="https://casperckc@bitbucket.org/vicbdm/vicbdm-edes-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://casperckc@bitbucket.org/vicbdm/cbdm-pos-agent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
