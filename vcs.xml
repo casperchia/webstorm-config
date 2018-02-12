@@ -38,9 +38,13 @@
           <option name="url" value="https://casperckc@bitbucket.org/vicbdm/cbdm-pos-agent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sammysamau/remoteclassroom.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Projects\cbdm" />
+    <option name="cloneParentDir" value="C:\Projects\" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />

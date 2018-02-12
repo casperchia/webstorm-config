@@ -2,14 +2,8 @@
   <template name="ng2-component" value="import { Component } from '@angular/core';&#10;&#10;@Component({&#10;    selector: '$SELECTOR$',&#10;    templateUrl: '$SELECTOR$.template.html'&#10;})&#10;export class $COMPONENT_NAME$Component {&#10;    constructor() { }&#10;    &#10;    $END$&#10;}" description="Angular2 component" toReformat="false" toShortenFQNames="true">
     <variable name="SELECTOR" expression="" defaultValue="&quot;selector&quot;" alwaysStopAt="true" />
     <variable name="COMPONENT_NAME" expression="capitalize(String)" defaultValue="&quot;ComponentName&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
   </template>
   <template name="ng2-module" value="import { NgModule } from '@angular/core';&#10;&#10;@NgModule({&#10;    declarations: [],&#10;    imports: [],&#10;    exports: [],&#10;    providers: [],&#10;})&#10;&#10;export class $COMPONENT_NAME$Module { }&#10;$END$" description="Angular 2 module" toReformat="false" toShortenFQNames="true">
     <variable name="COMPONENT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
   </template>
 </templateSet>
