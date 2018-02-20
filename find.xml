@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>prope</mask>
-      <mask>proper</mask>
-      <mask>*pro</mask>
-      <mask>*pr</mask>
       <mask>*p</mask>
       <mask>.</mask>
       <mask>.*</mask>
@@ -24,7 +21,6 @@
       <mask>.*properties.*</mask>
       <mask>*properties.*</mask>
       <mask>*properties*</mask>
-      <mask>*</mask>
       <mask>*e</mask>
       <mask>*en</mask>
       <mask>*end</mask>
@@ -34,6 +30,11 @@
       <mask>.*endpoint.</mask>
       <mask>.*endpoint.*</mask>
       <mask>*endpoint.*</mask>
+      <mask>8</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
