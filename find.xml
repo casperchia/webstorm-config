@@ -3,38 +3,37 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.test" />
     <recentFileMasks>
-      <mask>.*prop</mask>
-      <mask>.*prope</mask>
-      <mask>.*proper</mask>
-      <mask>.*propert</mask>
-      <mask>.*properti</mask>
-      <mask>.*properties</mask>
-      <mask>.*properties.</mask>
-      <mask>.*properties.*</mask>
-      <mask>*properties.*</mask>
-      <mask>*properties*</mask>
-      <mask>*e</mask>
-      <mask>*en</mask>
-      <mask>*end</mask>
-      <mask>*endpo</mask>
-      <mask>*endpoint</mask>
-      <mask>.*endpoint</mask>
-      <mask>.*endpoint.</mask>
-      <mask>.*endpoint.*</mask>
-      <mask>*endpoint.*</mask>
-      <mask>8</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.json</mask>
-      <mask>!*.sql</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
+      <mask>*.[^(test]</mask>
+      <mask>*.[^(test)]</mask>
+      <mask>*.[^(test)].</mask>
+      <mask>*.[^(test)].*</mask>
+      <mask>*.[^(test].*</mask>
+      <mask>*.[^(tes].*</mask>
+      <mask>*.[^(te].*</mask>
+      <mask>*.[^(t].*</mask>
+      <mask>*.[^(].*</mask>
+      <mask>*.[^t]**</mask>
+      <mask>*.[^t].*</mask>
+      <mask>*.[^t]*</mask>
+      <mask>*.[^t]..*.</mask>
+      <mask>*.[^t]*.*.</mask>
+      <mask>*.[^t]**.</mask>
+      <mask>*.[^t]*.</mask>
+      <mask>*.[^t].*.</mask>
+      <mask>*.[^t]..</mask>
+      <mask>*.[^t].</mask>
+      <mask>*.[^t]</mask>
+      <mask>*.[^t</mask>
+      <mask>*.[^</mask>
+      <mask>*.[</mask>
+      <mask>*..*</mask>
+      <mask>*..</mask>
+      <mask>*.*.*.</mask>
+      <mask>*.*.*</mask>
+      <mask>*.*.</mask>
+      <mask>*.*</mask>
       <mask>*.</mask>
-      <mask>!*.</mask>
-      <mask>!*.test</mask>
     </recentFileMasks>
   </component>
 </application>
