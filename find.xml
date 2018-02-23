@@ -2,13 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.test" />
     <recentFileMasks>
-      <mask>.*p</mask>
-      <mask>.*pe</mask>
-      <mask>.*pro</mask>
       <mask>.*prop</mask>
       <mask>.*prope</mask>
       <mask>.*proper</mask>
@@ -32,10 +28,13 @@
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.json</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
+      <mask>!*.sql</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>!*.</mask>
+      <mask>!*.test</mask>
     </recentFileMasks>
   </component>
 </application>
