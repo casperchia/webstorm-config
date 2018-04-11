@@ -3,39 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*e</mask>
-      <mask>*en</mask>
-      <mask>*end</mask>
-      <mask>*endpo</mask>
-      <mask>*endpoin</mask>
-      <mask>endpoint</mask>
-      <mask>*endpoint</mask>
-      <mask>*.*endpoint</mask>
-      <mask>*.endpoint.*</mask>
-      <mask>*.endpoint.</mask>
-      <mask>*.endpoint*.</mask>
-      <mask>*.endpoint*</mask>
-      <mask>*.endpoint</mask>
-      <mask>*.</mask>
-      <mask>.</mask>
-      <mask>.*ed</mask>
-      <mask>.*e</mask>
-      <mask>.*ts</mask>
-      <mask>.*t</mask>
-      <mask>.*</mask>
-      <mask>.*.ts</mask>
-      <mask>.*.t</mask>
-      <mask>.*.j</mask>
-      <mask>.*.ja</mask>
-      <mask>.*.java</mask>
-      <mask>.*.</mask>
-      <mask>*</mask>
-      <mask>*ja</mask>
-      <mask>*java</mask>
-    </recentFileMasks>
   </component>
 </application>
