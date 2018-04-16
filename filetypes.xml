@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping ext="jasper" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="component" type="TypeScript" />
       <mapping ext="enum" type="TypeScript" />
