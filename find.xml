@@ -13,5 +13,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
+    <mask>.html</mask>
+    <mask>*route*</mask>
+    <mask>*rout*</mask>
   </component>
 </application>
