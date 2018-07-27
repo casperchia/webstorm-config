@@ -213,4 +213,11 @@
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
 </keymap>
