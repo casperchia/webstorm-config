@@ -308,6 +308,24 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\{\!matching\}.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-10236998" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*SOLR QUERY.*" />
                       <option name="style">
                         <GrepStyle>
@@ -318,7 +336,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-3879995" />
+                              <option name="color" value="-10236998" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -345,6 +363,24 @@
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-8355712" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*Match result.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-10236998" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -384,7 +420,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="maxLengthToMatch" value="150" />
+          <option name="maxLengthToMatch" value="170" />
           <option name="multiLineOutput" value="true" />
           <option name="name" value="custom 2" />
         </Profile>
