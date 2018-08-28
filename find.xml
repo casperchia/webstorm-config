@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\cbdm-services\src\main\java\au\com\objectconsulting\cbdm\restapi\PersonEndpoint.java [cbdm-services]'" />
-    <option name="defaultScopeName" value="File '...\cbdm-services\src\main\java\au\com\objectconsulting\cbdm\restapi\PersonEndpoint.java [cbdm-services]'" />
-    <option name="SEARCH_SCOPE" value="File '...\cbdm-services\src\main\java\au\com\objectconsulting\cbdm\restapi\PersonEndpoint.java [cbdm-services]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
