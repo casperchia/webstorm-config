@@ -128,6 +128,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
+  <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
@@ -137,6 +138,7 @@
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
