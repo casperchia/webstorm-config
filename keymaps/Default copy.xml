@@ -59,6 +59,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Console.Jdbc.Execute.2">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+  <action id="Console.Jdbc.Execute.3">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
@@ -128,6 +134,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
+  <action id="NextProjectWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
@@ -137,6 +144,7 @@
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
