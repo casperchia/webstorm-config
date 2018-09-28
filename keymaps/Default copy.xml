@@ -45,6 +45,9 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="CloseAllNotifications">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
