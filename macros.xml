@@ -145,5 +145,14 @@
       <action id="EditorPaste" />
       <shortuct text="control TAB" />
     </macro>
+    <macro name="hello">
+      <typing text-keycode="72:0;69:0;76:0;76:0;79:0;32:0;87:0;79:0;82:0;76:0;68:0">hello&amp;#x20;world</typing>
+      <action id="EditorSelectWord" />
+      <action id="EditorSelectWord" />
+      <action id="EditorCopy" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorPaste" />
+    </macro>
   </component>
 </application>
