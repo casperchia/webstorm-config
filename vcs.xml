@@ -91,7 +91,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://cchia@syd-gitblit.objectconsulting.com.au:29418/lifelinkonlineforms/OnlineFormsAngularCLI.git" />
+          <option name="url" value="ssh://cchia@syd-gitblit.objectconsulting.com.au:29418/lifelinkonlineforms/DataTransferObject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
