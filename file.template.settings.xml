@@ -1,0 +1,10 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Angular Component.ts" reformat="true" live-template-enabled="true" />
+    </default_templates>
+    <internal_templates>
+      <template name="HTTP Request.http" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+  </component>
+</application>
