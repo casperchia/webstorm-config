@@ -154,5 +154,11 @@
       <action id="EditorDown" />
       <action id="EditorPaste" />
     </macro>
+    <macro name="Stop CLI and update">
+      <action id="Stop" />
+      <action id="Vcs.UpdateProject" />
+      <shortuct text="ENTER" />
+      <action id="Rerun" />
+    </macro>
   </component>
 </application>
