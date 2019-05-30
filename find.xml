@@ -8,11 +8,11 @@
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
+    <mask>*.css</mask>
   </component>
 </application>
