@@ -1,0 +1,37 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <server uri="http://tfs.resimac.com.au:8080/">
+        <configuration>
+          <credentials>
+            <credentials type="NtlmNative">
+              <password />
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+      <server uri="http://tfs.resimac.com.au:8080/tfs/Internal/">
+        <configuration>
+          <credentials>
+            <credentials type="NtlmNative">
+              <domain>RESIMAC</domain>
+              <password />
+              <username>Casper.Chia</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+      <server uri="http://tfs.resimac.com.au:8080/tfs/RESIMAC/">
+        <configuration>
+          <credentials>
+            <credentials type="NtlmNative">
+              <domain>RESIMAC</domain>
+              <password />
+              <username>Casper.Chia</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+    </option>
+  </component>
+</application>
