@@ -1,0 +1,40 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="userId" value="d46a7325-a49d-4cd1-b719-f828a91976e7" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e507f3a6-5757-4e70-a554-3931a5aabd45&quot;,&quot;name&quot;:&quot;RESIMAC&quot;,&quot;url&quot;:&quot;http://tfs.resimac.com.au:8080/tfs/_apis/projectCollections/e507f3a6-5757-4e70-a554-3931a5aabd45&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Direct Channel Online Application&quot;,&quot;id&quot;:&quot;945687d9-1b9f-43e1-a291-7f8e1637db9c&quot;,&quot;name&quot;:&quot;Ares&quot;,&quot;revision&quot;:5263611,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.resimac.com.au:8080/tfs/RESIMAC/_apis/projects/945687d9-1b9f-43e1-a291-7f8e1637db9c&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://tfs.resimac.com.au:8080/tfs" />
+          <option name="serverUri" value="http://tfs.resimac.com.au:8080/tfs" />
+          <option name="userId" value="d46a7325-a49d-4cd1-b719-f828a91976e7" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e507f3a6-5757-4e70-a554-3931a5aabd45&quot;,&quot;name&quot;:&quot;RESIMAC&quot;,&quot;url&quot;:&quot;http://tfs.resimac.com.au:8080/tfs/_apis/projectCollections/e507f3a6-5757-4e70-a554-3931a5aabd45&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Direct Channel Online Application&quot;,&quot;id&quot;:&quot;945687d9-1b9f-43e1-a291-7f8e1637db9c&quot;,&quot;name&quot;:&quot;Ares&quot;,&quot;revision&quot;:5263611,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.resimac.com.au:8080/tfs/RESIMAC/_apis/projects/945687d9-1b9f-43e1-a291-7f8e1637db9c&quot;}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="C:\products\TEE-CLC-14.134.0\tf.cmd" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="C:\webstorm-projects" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//_tfs_last_used_url_" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
