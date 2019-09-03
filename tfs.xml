@@ -32,6 +32,17 @@
           </credentials>
         </configuration>
       </server>
+      <server uri="http://tfs.resimac.com.au:8080/tfs/resimac/">
+        <configuration>
+          <credentials>
+            <credentials type="NtlmNative">
+              <domain>RESIMAC</domain>
+              <password />
+              <username>Casper.Chia</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
     </option>
   </component>
 </application>
